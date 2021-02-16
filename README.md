@@ -1,4 +1,3 @@
-![Linkedin](https://media-exp1.licdn.com/dms/image/C4D35AQHfmeuChMY4Lw/profile-framedphoto-shrink_200_200/0/1611395247772?e=1613577600&v=beta&t=YqOO_kCJnUZmuIt-eeHRAgwUR76Wy9TUXiqQQgNX_2I)
 ### Salut, je suis Abbasse !:sparkles:
 ### Développeur et Intégrateur Web
 
