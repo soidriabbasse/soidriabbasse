@@ -1,4 +1,4 @@
-### Salut, je suis Abbasse !:sparkles:
+### Salut, je suis Abbasse !
 ### Développeur et Intégrateur Web
 
 #### Opérationnel pour des missions de :
@@ -6,11 +6,15 @@
 > *  Intégration WordPress,
 > * Développement PHP e-commerce,
 > * Développement mobile Android,
+> * Développement Go(Golang),
+> * Développement Rust,
 
 #### Compétences :
 > * PHP 
 > * JAVA
 > * JS
+> * Go
+> * Rust
 > * Gestion de projet avec Scrum
 
 #### Compétences en cours d’intégration :
@@ -19,7 +23,8 @@
 > * Rust
 > * Vue JS
 > * React 
-> * Dart 
+> * Dart
+> * C/C++/Zig 
 
 #### Trouvez-moi ici :
 > * Twitter : https://twitter.com/AbbasseSoidri
